@@ -5,7 +5,7 @@
 
 [![Linkedin:](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-almeida05/ )
 
-[![Vicente GitHub stats](https://github-readme-stats.vercel.app/api?username=vicente-almeida&show_icons=true&theme=github_dark)
+![Vicente GitHub stats](https://github-readme-stats.vercel.app/api?username=vicente-almeida&show_icons=true&theme=github_dark)
 
 ## Algumas tecnologias que costumo utilizar para automação de testes:
 
@@ -24,6 +24,13 @@
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+
+
+
+
+
+
 
 
 
